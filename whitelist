@@ -56,7 +56,6 @@
 @@|*.gallery.vsassets.io^$important
 @@|*.gallerycdn.vsassets.io^$important
 @@|*.github.io^$important
-@@|*.googlevideo.com^$important
 @@|*.gravatar.com^$important
 @@|*.groups.office.live.com^$important
 @@|*.groups.photos.live.com^$important
