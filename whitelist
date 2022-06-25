@@ -1637,7 +1637,7 @@
 @@|googleapis.l.google.com^$important
 @@|googlehosted.l.googleusercontent.com^$important
 @@|googleusercontent.com^$important
-@@|googlevideo.com^$important
+# @@|googlevideo.com^$important ( Disable )
 @@|gosca.ea.com^$important
 @@|gossip.easyanticheat.net^$important
 @@|gparted.org^$important
